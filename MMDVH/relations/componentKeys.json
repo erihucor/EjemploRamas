@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_ECGMIFJPG_440": {
+			"name": "EntidadECG"
+		}
 	},
 	"SSMMT": {
 		"CompositeForms": {
