@@ -12,6 +12,11 @@
 			"blis": [
 			],
 			"entities": {
+				"EN_ECGMIFJPG_440": [
+					"AT30_APELLIOD440",
+					"AT91_NOMBREPU440",
+					"AT92_EDADZLKZ440"
+				]
 			},
 			"externalEntities": {
 			},
@@ -20,6 +25,9 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_MMDVH_APELLIDOO_13160",
+				"LBL_MMDVH_EDADCRDQH_70135",
+				"LBL_MMDVH_NOMBREPMB_75039"
 			],
 			"queries": {
 			},
