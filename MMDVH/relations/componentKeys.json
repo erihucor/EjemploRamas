@@ -1,0 +1,17 @@
+{
+	"Entities": {
+	},
+	"SSMMT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMDVHVYOWAFMK_846": {
+				"name": "FormularioECG"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
