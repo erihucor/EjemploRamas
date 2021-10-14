@@ -1,10 +1,11 @@
 {
-    "MMDVH": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMDVH": {
+		"LBL": {
+			"LBL_MMDVH_APELLIDOO_83623": "APELLIDO",
+			"LBL_MMDVH_CEDULARCW_23150": "CEDULA",
+			"LBL_MMDVH_NOMBREWZH_84324": "NOMBRE"
+		},
+		"MSG": {
+		}
+	}
 }

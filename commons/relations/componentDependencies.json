@@ -1,6 +1,40 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_STALINDEV_248": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_MMDVHNKEVVMUI_794": {
+			"blis": [
+			],
+			"entities": {
+				"EN_STALINDEV_248": [
+					"AT11_APELLIOD248",
+					"AT13_NOMBRETO248",
+					"AT78_CEDULAXX248"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMDVH_APELLIDOO_83623",
+				"LBL_MMDVH_CEDULARCW_23150",
+				"LBL_MMDVH_NOMBREWZH_84324"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
