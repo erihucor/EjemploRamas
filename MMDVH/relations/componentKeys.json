@@ -2,6 +2,9 @@
 	"Entities": {
 		"EN_STALINDEV_248": {
 			"name": "Stalin"
+		},
+		"EN_STALINDSS_712": {
+			"name": "StalinDos"
 		}
 	},
 	"SSMMT": {
