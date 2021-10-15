@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_STALINDEV_248": {
+			"name": "Stalin"
+		}
+	},
+	"SSMMT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMDVHNKEVVMUI_794": {
+				"name": "FormularioKSAC"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
