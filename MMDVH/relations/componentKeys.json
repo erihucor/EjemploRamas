@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_CLASELFYY_211": {
+			"name": "ClaseLFY"
+		}
+	},
+	"SSMMT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMDVHSYVHGAVF_651": {
+				"name": "FormularioLFY"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
