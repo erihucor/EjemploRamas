@@ -2,6 +2,9 @@
 	"Entities": {
 		"EN_CLASELFYY_211": {
 			"name": "ClaseLFY"
+    },
+		"EN_STALINDEV_248": {
+			"name": "Stalin"
 		}
 	},
 	"SSMMT": {
@@ -10,6 +13,9 @@
 		"Forms": {
 			"T_MMDVHSYVHGAVF_651": {
 				"name": "FormularioLFY"
+      },
+			"T_MMDVHNKEVVMUI_794": {
+				"name": "FormularioKSAC"
 			}
 		},
 		"Queries": {
