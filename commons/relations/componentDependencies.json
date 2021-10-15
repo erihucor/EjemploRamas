@@ -3,9 +3,9 @@
 	},
 	"Entities": {
 		"EN_CLASELFYY_211": {
-      "labels": [
+			"labels": [
 			]
-    },
+		},
 		"EN_STALINDEV_248": {
 			"labels": [
 			]
@@ -20,7 +20,7 @@
 					"AT37_APELLIDO211",
 					"AT90_EDADMMOG211",
 					"AT95_NOMBREQG211"
-  			]
+				]
 			},
 			"externalEntities": {
 			},
@@ -32,12 +32,12 @@
 				"LBL_MMDVH_APELLIDOO_70360",
 				"LBL_MMDVH_EDADHEKDS_68440",
 				"LBL_MMDVH_NOMBREDQD_10991"  
-      ],
+			],
 			"queries": {
 			},
 			"subForms": [
 			]
-    },
+		},
 		"T_MMDVHNKEVVMUI_794": {
 			"blis": [
 			],
