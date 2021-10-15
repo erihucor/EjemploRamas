@@ -1,10 +1,11 @@
 {
-    "MMDVH": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMDVH": {
+		"LBL": {
+			"LBL_MMDVH_APELLIDOO_70360": "Apellido",
+			"LBL_MMDVH_EDADHEKDS_68440": "Edad",
+			"LBL_MMDVH_NOMBREDQD_10991": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }
