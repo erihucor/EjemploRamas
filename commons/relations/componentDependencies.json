@@ -13,35 +13,13 @@
 		"EN_STALINDSS_712": {
 			"labels": [
 			]
+		},
+		"EN_YALAZUYUB_169": {
+			"labels": [
+			]
 		}
 	},
 	"Forms": {
-		"T_MMDVHSYVHGAVF_651": {
-			"blis": [
-			],
-			"entities": {
-				"EN_CLASELFYY_211": [
-					"AT37_APELLIDO211",
-					"AT90_EDADMMOG211",
-					"AT95_NOMBREQG211"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_MMDVH_APELLIDOO_70360",
-				"LBL_MMDVH_EDADHEKDS_68440",
-				"LBL_MMDVH_NOMBREDQD_10991"  
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
 		"T_MMDVHNKEVVMUI_794": {
 			"blis": [
 			],
@@ -62,6 +40,32 @@
 				"LBL_MMDVH_APELLIDOO_83623",
 				"LBL_MMDVH_CEDULARCW_23150",
 				"LBL_MMDVH_NOMBREWZH_84324"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_MMDVHSYVHGAVF_651": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLASELFYY_211": [
+					"AT37_APELLIDO211",
+					"AT90_EDADMMOG211",
+					"AT95_NOMBREQG211"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMDVH_APELLIDOO_70360",
+				"LBL_MMDVH_EDADHEKDS_68440",
+				"LBL_MMDVH_NOMBREDQD_10991"
 			],
 			"queries": {
 			},

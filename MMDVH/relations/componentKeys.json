@@ -2,23 +2,26 @@
 	"Entities": {
 		"EN_CLASELFYY_211": {
 			"name": "ClaseLFY"
-    		},
+		},
 		"EN_STALINDEV_248": {
 			"name": "Stalin"
 		},
 		"EN_STALINDSS_712": {
 			"name": "StalinDos"
+		},
+		"EN_YALAZUYUB_169": {
+			"name": "Ya"
 		}
 	},
 	"SSMMT": {
 		"CompositeForms": {
 		},
 		"Forms": {
-			"T_MMDVHSYVHGAVF_651": {
-				"name": "FormularioLFY"
-      		},
 			"T_MMDVHNKEVVMUI_794": {
 				"name": "FormularioKSAC"
+			},
+			"T_MMDVHSYVHGAVF_651": {
+				"name": "FormularioLFY"
 			}
 		},
 		"Queries": {
