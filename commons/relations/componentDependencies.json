@@ -9,6 +9,10 @@
 		"EN_STALINDEV_248": {
 			"labels": [
 			]
+		},
+		"EN_ECGMIFJPG_440": {
+			"labels": [
+			]
 		}
 	},
 	"Forms": {
@@ -32,6 +36,32 @@
 				"LBL_MMDVH_APELLIDOO_83623",
 				"LBL_MMDVH_CEDULARCW_23150",
 				"LBL_MMDVH_NOMBREWZH_84324"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_MMDVHVYOWAFMK_846": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ECGMIFJPG_440": [
+					"AT30_APELLIOD440",
+					"AT91_NOMBREPU440",
+					"AT92_EDADZLKZ440"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMDVH_APELLIDOO_13160",
+				"LBL_MMDVH_EDADCRDQH_70135",
+				"LBL_MMDVH_NOMBREPMB_75039"
 			],
 			"queries": {
 			},
